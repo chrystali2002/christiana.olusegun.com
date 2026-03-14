@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://christiana.olusegun.com/sitemap.xml
+Sitemap: https://christiana.olusegun.com/christiana.olusegun.com/sitemap.xml
